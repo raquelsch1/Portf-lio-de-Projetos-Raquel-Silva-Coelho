@@ -30,7 +30,7 @@ Sistema de controle de acesso desenvolvido para Raspberry Pi Pico W com interfac
 7. O evento é registrado em log
 8. O usuário pode destrancar a fechadura com inserção de senha padrão pela interface web
 
-Pasta do projeto: `fechadura-eletronica-iot`
+Pasta do projeto: [Fechadura Web Embarcada](./fechadura_web_embarcada)
 
 ---
 
@@ -53,7 +53,7 @@ Projeto de sistema para organização de serviços e controle de operações de 
 5. Controle de status dos serviços
 6. Consulta de histórico
 
-Pasta do projeto: `sistema-lava-jato`
+Pasta do projeto: [Lava Jato](./lava-jato)
 
 ---
 
@@ -69,7 +69,7 @@ Projeto voltado para organização e digitalização de fluxos de processos rela
 - Prototipação com figma
 - Codificação
 
-Pasta do projeto: `gasflow`
+Pasta do projeto: [GasFlow](./gasflow)
 
 ---
 
@@ -84,7 +84,7 @@ Experimentos com modelos de aprendizagem de máquina aplicados à análise de da
 - Avaliação de resultados
 - Análise de desempenho
 
-Pasta do projeto: `machine-learning`
+Pasta do projeto: [Machine Learning](./machine-learning)
 
 ---
 
@@ -122,7 +122,7 @@ O projeto tem como objetivo incentivar o interesse de meninas e jovens estudante
 - Planejamento de oficinas tecnológicas
 - Trabalho em equipe em projetos de extensão
 
-Pasta do projeto: `projeto-extensao-meninas-na-ciencia`
+Pasta do projeto: [WinSTEM](./winSTEM)
 
 ## Objetivo
 
