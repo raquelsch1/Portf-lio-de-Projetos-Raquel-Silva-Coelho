@@ -4,6 +4,9 @@ Sistema de **controle de acesso embarcado** desenvolvido para **Raspberry Pi Pic
 
 O sistema funciona de forma **autônoma**, criando seu próprio **Access Point** e hospedando uma **interface web embarcada**, permitindo que usuários autorizados realizem login e controlem a abertura da fechadura.
 
+## Destaques e Reconhecimentos
+Este trabalho obteve nota máxima na avaliação final do curso e alcançou projeção acadêmica e profissional. O projeto foi apresentado no **Fórum Energias Renováveis Maranhão 2025** (participação a convite) e no **Universo IFMA 2025** (trabalho aprovado por submissão). Os registros fotográficos das exibições nestes eventos podem ser visualizados na pasta `/fotos` deste repositório (ex: [Apresentação Fórum](fotos/forum.jpg) e [Apresentação IFMA](fotos/ifma.jpg)).
+
 ---
 
 ## Funcionamento do Sistema
