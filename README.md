@@ -53,7 +53,7 @@ Projeto de sistema para organização de serviços e controle de operações de 
 5. Controle de status dos serviços
 6. Consulta de histórico
 
-Pasta do projeto: [Lava Jato](./lava-jato)
+Pasta do projeto: [Lava Jato](./.idea/lava-jato)
 
 ---
 
@@ -102,7 +102,7 @@ O sistema simula o gerenciamento de consultas médicas, permitindo organizar inf
 - Organização modular do código
 - Lógica de gerenciamento de consultas
 
-Pasta do projeto: `projeto-java`
+Pasta do projeto: [Arquitetura Hexagonal](./arquitetura_hexagonal)
 
 ---
 ## 6. Projeto de Extensão – WinSTEM: Meninas na Ciência
