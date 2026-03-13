@@ -2,7 +2,7 @@
 
 O GasFlow é um portal unificado para o acompanhamento e controle de processos de aquisição, projetado para digitalizar o fluxo de compras da Gasmar Gás Natural. O sistema substitui controles manuais e descentralizados, garantindo transparência e rastreabilidade entre a Área Demandante, o Setor de Compras (GERAF) e o Setor Contábil (GECONT).
 
-🔗 **[Clique aqui para acessar o protótipo interativo no Figma](https://www.figma.com/proto/g7IaPwoak01Uw2y73TnPi2/GasFlow?node-id=10-110&p=f&t=mWMPF9K8J8CuV1k1-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=10%3A110&show-proto-sidebar=1)**.
+**[Clique aqui para acessar o protótipo interativo no Figma](https://www.figma.com/proto/g7IaPwoak01Uw2y73TnPi2/GasFlow?node-id=10-110&p=f&t=mWMPF9K8J8CuV1k1-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=10%3A110&show-proto-sidebar=1)**.
 
 ## Minha Atuação (Visão Sistêmica e Arquitetura)
 
