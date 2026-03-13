@@ -12,4 +12,4 @@ O WinSTEM agrega ao meu portfólio ao demonstrar que, além da construção de l
 ## Registros das Atividades
 Os registros fotográficos das oficinas e dinâmicas realizadas com as estudantes podem ser visualizados na pasta de fotos deste repositório:
 
-🔗 **[Acessar Galeria de Fotos](./fotos)**
+🔗 **[Acessar Galeria de Fotos](./mídia)**
