@@ -4,7 +4,7 @@ Projeto focado no desenvolvimento de modelos preditivos para identificar cliente
 
 O fluxo de experimentação, incluindo pré-processamento, treinamento de modelos e avaliação de métricas, foi desenvolvido de forma iterativa e detalhada no notebook do projeto.
 
-🔗 **[Acesso ao Notebook no Google Colab](https://colab.research.google.com/drive/1mNSuVXWRFqTDvGdRPFMS5AF4JJdXltm8)**
+**[Acesso ao Notebook no Google Colab](https://colab.research.google.com/drive/1mNSuVXWRFqTDvGdRPFMS5AF4JJdXltm8)**
 
 ## Conceitos Aplicados
 Tratamento de dados desbalanceados, construção de pipelines (Scikit-Learn), treinamento de modelos Baseline e Ensemble, seleção de atributos (Feature Selection), ajuste de limiar de decisão para otimização de métricas (F1-Macro, ROC-AUC) e deploy de modelo preditivo.
