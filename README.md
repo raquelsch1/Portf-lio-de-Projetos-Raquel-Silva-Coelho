@@ -53,7 +53,7 @@ Projeto de sistema para organização de serviços e controle de operações de 
 5. Controle de status dos serviços
 6. Consulta de histórico
 
-Pasta do projeto: [Lava Jato](./.idea/lava-jato)
+Pasta do projeto: [Lava Jato](./lava-jato)
 
 ---
 
