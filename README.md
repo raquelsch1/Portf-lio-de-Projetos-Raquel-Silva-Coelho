@@ -123,7 +123,3 @@ O projeto tem como objetivo incentivar o interesse de meninas e jovens estudante
 - Trabalho em equipe em projetos de extensão
 
 Pasta do projeto: [WinSTEM](./winSTEM)
-
-## Objetivo
-
-O objetivo deste portfólio é demonstrar minha forma de pensar na construção de soluções computacionais, destacando a lógica dos sistemas desenvolvidos e a organização do código.
