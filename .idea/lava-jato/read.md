@@ -16,7 +16,7 @@ A primeira versão foi desenvolvida em **Java** com interface gráfica em **Swin
 Na segunda fase, a lógica de negócio foi reaproveitada para a construção de um sistema Web em **PHP**. Esta etapa focou fortemente na experiência do usuário e no ciclo de vida de desenvolvimento de software:
 * **Mapeamento de Requisitos:** Aplicação de **Design Thinking** para entender as dores do cliente e do administrador do lava jato.
 * **Prototipação:** Criação de interfaces de alta fidelidade visando usabilidade e responsividade.
-* 🔗 **[Clique aqui para acessar o protótipo interativo no Figma](https://www.figma.com/proto/vGEb6Fl03NhiwFqcH7pdP1?node-id=91-32)**.
+* **[Clique aqui para acessar o protótipo interativo no Figma](https://www.figma.com/proto/vGEb6Fl03NhiwFqcH7pdP1?node-id=91-32)**.
 * **Desenvolvimento:** Codificação de todo o projeto proposto no protótipo.
 
 ## Funcionalidades Principais
@@ -42,7 +42,7 @@ Na implementação inicial em Java, fui responsável por desenvolver toda a arqu
 
 **SistemaLavaJato.java:** Atua como o controlador principal do sistema. Utiliza estruturas de dados (`List` e `HashMap`) para gerenciar dinamicamente as instâncias de clientes, veículos, serviços e usuários. Contém a lógica central de autenticação, validação para evitar conflitos de horários de agendamento e algoritmos para a geração de relatórios operacionais.
 
-**Cliente.java ** Implementam a modelagem da entidade Cliente. A classe `Cliente` aplica encapsulamento para proteger dados sensíveis e credenciais, gerenciando sua própria lista de instâncias de `Veiculo`, o que permite buscas de placas e adições dinâmicas de novos carros ao perfil.
+**Cliente.java** Implementam a modelagem da entidade Cliente. A classe `Cliente` aplica encapsulamento para proteger dados sensíveis e credenciais, gerenciando sua própria lista de instâncias de `Veiculo`, o que permite buscas de placas e adições dinâmicas de novos carros ao perfil.
 
 ## Estrutura do Código (Monitoramento de Filas - V2)
 
